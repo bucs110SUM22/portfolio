@@ -19,6 +19,8 @@ Chapter 0 introduces you to how I will be running the course and some of the bas
 * **Review**
     1. [Introductions](https://forms.gle/rDk7zgsdoLAcudP58)
 
+***
+***
 ***The following are to be completed by the student***
 
 ## KNOWN BUGS AND INCOMPLETE PARTS
