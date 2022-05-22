@@ -1,4 +1,4 @@
-# Chapter 0
+# Chapter 1
 
 ## CS 110 - Introduction to Programming with Python
 
@@ -16,18 +16,17 @@ Chapter 0 introduces you to how I will be running the course and some of the bas
 
 * **Review**
 
-[Introductions](https://forms.gle/rDk7zgsdoLAcudP58)
+[Introductions](https://forms.gle/sBwPZpTYaW8mkL1T7)
 
 * **Exercises**
     1. [Sort A Deck of Cards](https://docs.google.com/document/d/1HpMDjczd65YwUZf7mQxhDrXYWOqA1--2DF0EGDAhL7Y/edit?usp=sharing)
 
-***
-***
-
-***The following are to be completed by the student***
+* **Lab**
+[Introductions](https://forms.gle/rDk7zgsdoLAcudP58)
 
 ***
 ***
+
 ***The following are to be completed by the student***
 
 ## KNOWN BUGS AND INCOMPLETE PARTS
