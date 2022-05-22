@@ -14,10 +14,17 @@ Chapter 0 introduces you to how I will be running the course and some of the bas
 
 ## ASSIGNMENTS DUE
 
+* **Review**
+
+[Introductions](https://forms.gle/rDk7zgsdoLAcudP58)
+
 * **Exercises**
     1. [Sort A Deck of Cards](https://docs.google.com/document/d/1HpMDjczd65YwUZf7mQxhDrXYWOqA1--2DF0EGDAhL7Y/edit?usp=sharing)
-* **Review**
-    1. [Introductions](https://forms.gle/rDk7zgsdoLAcudP58)
+
+***
+***
+
+***The following are to be completed by the student***
 
 ***
 ***
