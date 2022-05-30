@@ -10,7 +10,7 @@
 
 ## SUMMARY
 
-Chapter 1 introduces you data in python
+Chapter 1 introduces you to data in python
 
 ## ASSIGNMENTS DUE
 

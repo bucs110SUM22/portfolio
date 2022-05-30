@@ -2,8 +2,6 @@
 
 ## CS 110 - Introduction to Programming with Python
 
-## [Chapter Materials](http://sm-web.cs.binghamton.edu/cs110-a0-summer-22/chapter-10)
-
 *REMINDER - if you are off campus, you need to be connected to the [VPN](https://binghamton.service-now.com/sp?id=kb_article_view&sys_kb_id=c9cb558cdb6f8410de8df4641f9619a8)*
 
 ***

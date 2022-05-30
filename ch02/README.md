@@ -10,7 +10,7 @@
 
 ## SUMMARY
 
-Chapter 2 introduces you python modules
+Chapter 2 introduces you to python modules
 
 ## ASSIGNMENTS DUE
 

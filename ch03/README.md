@@ -10,7 +10,7 @@
 
 ## SUMMARY
 
-Chapter 3 introduces you functions in Python
+Chapter 3 introduces you to functions in Python
 
 ## ASSIGNMENTS DUE
 
