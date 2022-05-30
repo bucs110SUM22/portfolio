@@ -16,7 +16,7 @@ def main():
     i = 0
     for s in su:
         result = str(s)
-        print(s, " got: ", result," expected: " + expected_results[i])
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
@@ -25,7 +25,7 @@ def main():
     i = 0
     for s in su:
         result = s.vowels()
-        print(s, " got: ", result," expected: " + expected_results[i])
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
@@ -34,7 +34,7 @@ def main():
     i = 0
     for s in su:
         result = s.bothEnds()
-        print(s, " got: ", result," expected: " + expected_results[i])
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
@@ -43,7 +43,7 @@ def main():
     i = 0
     for s in su:
         result = s.fixStart()
-        print(s, " got: ", result," expected: " + expected_results[i])
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
@@ -52,7 +52,7 @@ def main():
     i = 0
     for s in su:
         result = s.asciiSum()
-        print(s, " got: ", result," expected: " + str(expected_results[i]))
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
@@ -61,7 +61,7 @@ def main():
     i = 0
     for s in su:
         result = s.cipher()
-        print(s, " got: ", result," expected: " + expected_results[i])
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
@@ -70,10 +70,10 @@ def main():
     i = 0
     for s in su:
         result = str(s)
-        print(s, " got: ", result," expected: " + expected_results[i])
+        print(f"{s}, got: {result}, expected: {expected_results[i]}")
         assert(result == expected_results[i])
         i += 1
 
-    print("=========== Tests Complete. Don't forget to commit and add your hash to mycourses! ===========")
+    print("=========== Tests Complete! ===========")
 
 main()
