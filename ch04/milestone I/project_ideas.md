@@ -2,12 +2,12 @@
 
 In order to start the Final Project for the course, you will need to decide on the following (remember, nothing is set in stone yet).
 
-Review the sample Final Projects listed below and come up with 3 possible ideas of your own for your final project. A few things to note:
+Review the sample Final Projects listed below and come up with 3 possible ideas of your own for your final project. Complete this document in **your** portfolio (CH 4). A few things to note:
 
-1. **Don't limit yourself**
+1. ***Don't limit yourself***
     * I will help you scale it to something manageable, but it is  uch easier to scake something down than to scale up. Shoot for the stars.
 
-2. **Your idea WILL change, don't worry about the details yet.**
+2. ***Your idea WILL change, don't worry about the details yet.***
     * Just think of a general type of game, simulation, or other kind of program you would like to create.
 
 ***
@@ -16,6 +16,12 @@ For each one below you should have a basic description of a program idea, a coup
 
 ## Project Idea 1
 
+< add your idea here >
+
 ## Project Idea 2
 
+< add your idea here >
+
 ## Project Idea 3
+
+< add your idea here >
