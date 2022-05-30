@@ -15,7 +15,8 @@ Chapter 0 introduces you to how I will be running the course and some of the bas
 ## ASSIGNMENTS DUE
 
 * **Exercises**
-    1. Sort A Deck of Cards
+    1. Course Tools
+    2. Sort A Deck of Cards
 
 * Review
 

@@ -15,7 +15,6 @@ Chapter 1 introduces you to data in python
 ## ASSIGNMENTS DUE
 
 * **Exercises**
-    * Course Tools
     * Working with Data
 * Review
 * Lab
