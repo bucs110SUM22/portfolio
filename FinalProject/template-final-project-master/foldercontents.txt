@@ -1,6 +1,5 @@
-There should only be 3 files in this folder:
+There should only be 2 files in this folder:
 main.py
 README.md
-demo.mp4
 
 All other files must go into subfolders

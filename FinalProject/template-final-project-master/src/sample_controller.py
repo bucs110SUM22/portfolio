@@ -2,32 +2,42 @@
 class Controller:
   
   def __init__(self):
-    #setup pygame data
+    """
+    setup pygame data
+    """
     
   def mainloop(self):
-    #select state loop
+    """
+    select state loop
+    """
     
   
   ### below are some sample loop states ###
 
   def menuloop(self):
-    
-      #event loop
+      """
+      1. event loop
 
-      #update data
+      2. update data
 
-      #redraw
+      3. redraw
+      """
+      
       
   def gameloop(self):
-      #event loop
+      """
+      1. event loop
 
-      #update data
+      2. update data
 
-      #redraw
+      3. redraw
+      """
     
   def gameoverloop(self):
-      #event loop
+      """
+      1. event loop
 
-      #update data
+      2. update data
 
-      #redraw
+      3. redraw
+      """
