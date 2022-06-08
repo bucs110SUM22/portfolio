@@ -10,7 +10,7 @@ class Controller:
         pygame.init()
         self.width = width
         self.height = height
-        self.screen = pygame.display.set_mode((self.width, self.height))
+        self.screen = pygame.display.set_mode()
         self.background = pygame.Surface(self.screen.get_size()).convert()
         self.background.fill((250, 250, 250))  # set the background to white
         pygame.font.init()  # you have to call this at the start, if you want to use this module.
